@@ -1,1 +1,59 @@
 /* Add screen styles below */
+/* Add screen styles below */
+body{
+    background: #C17C74;
+    margin-top: 150px;
+}
+
+.card{
+    background: #68A691;
+    color: #37323E;
+    margin: 0 auto; 
+    width:500px;
+    height: 300px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0,0,0,.3);
+}
+
+.card div{
+    padding: 20px;
+}
+
+h1{
+    background: #2E4052;
+    margin: 0;
+    padding: 20px;
+    border-radius: 20px 20px 0 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #FFFFFF;
+    font-size: 24px;
+}
+
+img{
+    float: left;
+    height: 200px;
+    width: auto;
+    margin-right: 20px;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;; 
+    color: #FFFFFF;
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;; 
+    color: #FFFFFF;
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;; 
+    color: #FFFFFF;
+    font-size: 16px;
+    list-style-type: none;
+    }      
